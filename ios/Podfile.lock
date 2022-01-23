@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - geolocation (0.0.1):
+    - Flutter
+    - streams_channel
+  - streams_channel (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - geolocation (from `.symlinks/plugins/geolocation/ios`)
+  - streams_channel (from `.symlinks/plugins/streams_channel/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  geolocation:
+    :path: ".symlinks/plugins/geolocation/ios"
+  streams_channel:
+    :path: ".symlinks/plugins/streams_channel/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  geolocation: c194aabfd0f48cd7d6041afa8ba6542aa5714dc2
+  streams_channel: 16855ffd0568eded9563b2fec6a1bfa94420b353
+
+PODFILE CHECKSUM: 57c8aed26fba39d3ec9424816221f294a07c58eb
+
+COCOAPODS: 1.11.2
